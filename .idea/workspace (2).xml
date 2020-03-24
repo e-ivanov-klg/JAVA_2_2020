@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9696b4a5-6ec5-4075-9fa5-113322a87f12" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/FXMLController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/MyFirstChat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson04/scene.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA_2_2020.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA_2_2020.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Lesson03" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\eikal\YandexDisk\IT\Projects\JAVA_2_2020\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YDoOi5mmmlFFtqVvAdwfgMDEq5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\eikal\YandexDisk\IT\Projects\JAVA_2_2020" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MyFirstChat">
+    <configuration name="JavaFXSkel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.JavaFXSkel" />
+      <module name="JAVA_2_2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyFirstChat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson04.MyFirstChat" />
+      <module name="JAVA_2_2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneBookRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson03.PhoneBookRun" />
+      <module name="JAVA_2_2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson03.Task1" />
+      <module name="JAVA_2_2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidArrayConvert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson02.ValidArrayConvert" />
+      <module name="JAVA_2_2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyFirstChat" />
+        <item itemvalue="Application.JavaFXSkel" />
+        <item itemvalue="Application.PhoneBookRun" />
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.ValidArrayConvert" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9696b4a5-6ec5-4075-9fa5-113322a87f12" name="Default Changelist" comment="" />
+      <created>1582486495903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582486495903</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Lesson 1 homework">
+      <created>1582528403160</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582528403160</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Lesson 2 homework">
+      <created>1582740777369</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582740777369</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Lesson 3 homework">
+      <created>1583085446022</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583085446022</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lesson 1 homework" />
+    <MESSAGE value="Lesson 2 homework" />
+    <MESSAGE value="Lesson 3 homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 3 homework" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="181" key="#Project_Structure" timestamp="1583344226382">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="181" key="#Project_Structure/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1583344226382" />
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1583084581399">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1583084581399" />
+    <state x="761" y="411" width="398" height="224" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582526543603">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="761" y="411" width="398" height="224" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1582526543603" />
+    <state x="607" y="118" key="CommitChangelistDialog2" timestamp="1583085444567">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="607" y="118" key="CommitChangelistDialog2/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1583085444567" />
+    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1583004236849">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1583004236849" />
+    <state x="832" y="418" width="261" height="204" key="Github.ShareDialog" timestamp="1583004462575">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="832" y="418" width="261" height="204" key="Github.ShareDialog/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1583004462575" />
+    <state x="722" y="228" key="Github.UntrackedFilesDialog" timestamp="1582486713987">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="722" y="228" key="Github.UntrackedFilesDialog/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1582486713987" />
+    <state width="1877" height="164" key="GridCell.Tab.0.bottom" timestamp="1583352874350">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="164" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1583352874350" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582723859070" />
+    <state width="1877" height="164" key="GridCell.Tab.0.center" timestamp="1583352874349">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="164" key="GridCell.Tab.0.center/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1583352874349" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582723859070" />
+    <state width="1877" height="164" key="GridCell.Tab.0.left" timestamp="1583352874348">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="164" key="GridCell.Tab.0.left/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1583352874348" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582723859070" />
+    <state width="1877" height="164" key="GridCell.Tab.0.right" timestamp="1583352874349">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="164" key="GridCell.Tab.0.right/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1583352874349" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582723859070" />
+    <state x="261" y="13" key="SettingsEditor" timestamp="1583268543476">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1180" y="9" key="SettingsEditor/0.0.1920.1040/-1366.0.1366.728@-1366.0.1366.728" timestamp="1582568753921" />
+    <state x="261" y="13" key="SettingsEditor/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1583268543476" />
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2" timestamp="1583085450036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1583085450036" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1583004074759">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1583004074759" />
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1583350575261">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1583350575261" />
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582720619458" />
+    <state x="667" y="154" width="586" height="732" key="find.popup" timestamp="1583268461758">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="154" width="586" height="732" key="find.popup/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1583268461758" />
+    <state x="670" y="323" key="git4idea.merge.GitPullDialog" timestamp="1583342279907">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="670" y="323" key="git4idea.merge.GitPullDialog/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1583342279907" />
+    <state x="342" y="146" key="new project wizard" timestamp="1583346505022">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="146" key="new project wizard/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1583346505022" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1583084563415">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1583084563415" />
+    <state x="790" y="314" key="svn.repositoryBrowser" timestamp="1583004120038">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="790" y="314" key="svn.repositoryBrowser/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1583004120038" />
+  </component>
+</project>
