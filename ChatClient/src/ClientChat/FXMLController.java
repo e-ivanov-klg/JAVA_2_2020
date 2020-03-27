@@ -25,11 +25,6 @@ public class FXMLController {
 
     private ClientConnection clientConnection;
 
-    /*
-    FXMLController (){
-
-    }
-    */
     @FXML
     private Button btn1;
     @FXML
@@ -73,9 +68,10 @@ public class FXMLController {
         this.clientConnection = clConnection;
         controller.init(clientConnection, loginStage);
         loginStage.initModality(Modality.APPLICATION_MODAL);
+        System.out.println(Thread.currentThread().getName());
         loginStage.showAndWait();
         if (clientConnection.getUserName() == null) {
-            mainStage.close();
+            mainStage.hide();
             return;
         }
         System.out.println("AfterLogin");

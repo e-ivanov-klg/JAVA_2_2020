@@ -37,7 +37,8 @@ public class ClientChatApp extends Application {
             }
         });
         FXMLController controller = loader.getController();
-        controller.start(clientConnection, mainStage);
         mainStage.show();
+        controller.start(clientConnection, mainStage);
+
     }
 }
